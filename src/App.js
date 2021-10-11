@@ -5,8 +5,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} alt={"tripadd_logo"} />
-        <p>Coming Soon...</p>
+        <img src={logo} width="40%" alt={"tripadd_logo"} />
+        <p style={{ fontSize: "65px" }}>COMING SOON...</p>
       </header>
     </div>
   );
